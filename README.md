@@ -7,4 +7,4 @@ If you are interested in helping or learning about my experience with this conta
 
 AlexJeter1702@gmail.com
 or
-xSkyGuy17x#3989 on discord
+xSkyGuy17x on discord
