@@ -1,9 +1,5 @@
 # BowlingLeagueSoftWare
-This is the growth of my own Bowling League Software. Built alongside my brother, we will accomplish a data storing program which holds many attributes of the Classes: BowlingTeam and Player. It is currently a work in progress as we try to complete it by the next league season which occurs in June 2023.
-
-Noted that it is a work in progress, we have decided to move into python! We will now be uploading .py and .xlsx files for the repository. We will keep the Java files in the repo as a format for us to follow for now. If you are reading this, then they should still be there.
-
-If you are interested in helping or learning about my experience with this contact me:
+Although my brother and I began this code in order to assist our current leagues broken software, the corperation from which our league runs from does not allow for third party software. Thus our final edits to the code are put into test.py. If you are interested in seeing more or have questions about my projects feel free to contact me from the below options:
 
 AlexJeter1702@gmail.com
 or
